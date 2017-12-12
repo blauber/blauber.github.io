@@ -16,7 +16,7 @@ _back to main page_
  
  wie man sehen kann.
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/logo.jpg)
 Format: ![Alt Text](url)
 
 First Header | Second Header
