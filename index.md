@@ -28,4 +28,4 @@ todo todo todo
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-Go to [questions page](questions)
+Go to [questions page](questions.md)
