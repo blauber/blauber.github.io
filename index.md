@@ -18,10 +18,10 @@ todo todo todo
 - vier
   
 1. aaaaaa
-  1. bbbbbb
-  1. cccccc
-  1. ddddddd
-   1. eeeeeeee
+1. bbbbbb
+1. cccccc
+1. ddddddd
+1. eeeeeeee
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
