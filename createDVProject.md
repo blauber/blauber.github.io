@@ -27,3 +27,11 @@ Adapt the data type of the identity and foreign key default columns to match the
 *	Remove the term rule for the default column “Identity” for the DWH parts “DW_EN_Hub_TA_SQL” and “DW_EN_Link_TA_SQL”.
 
 <img src="/images/SettingHash2.png" data-canonical-src="/images/SettingHash2.png" width="600" />
+
+# Configure DWH Layers
+
+# Configure Source Objects
+
+# Execute Discovery
+
+# Create Staging Objects
