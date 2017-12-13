@@ -22,6 +22,8 @@ Hash keys can be used instead of sequence numbers for the identity columns. The 
 Adapt the data type of the identity and foreign key default columns to match the size of the selected algorithm.
 *	The data type of the default columns “Identity” and “ForeignKey_Identity” of the DWH object types “Entity” and “Fact” must be set to “BINARY (20)”, before any DWH object is defined.
 
-
+<img src="/images/SettingHash1.png" data-canonical-src="/images/SettingHash1.png" width="400" />
 
 *	Remove the term rule for the default column “Identity” for the DWH parts “DW_EN_Hub_TA_SQL” and “DW_EN_Link_TA_SQL”.
+
+<img src="/images/SettingHash2.png" data-canonical-src="/images/SettingHash2.png" width="400" />
