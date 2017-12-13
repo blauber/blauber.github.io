@@ -1,3 +1,5 @@
+[Create Data Vault Project](createDVProject.md)
+
 # Getting Started With Data Vault and biGenius
 todo todo todo
 ## Semantic Modeling
