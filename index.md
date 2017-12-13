@@ -2,6 +2,6 @@
 
 ![GitHub Logo](/images/biGeniusLogo2.png)
 
-biGenius accelerates the implementation of your Business Intelligence solution and supports from Business Requirements Engineering till the automatic generation of the Data Warehouse components. 
+biGenius enables you to model your Data Warehouse and automatically generate the required Data Warehouse components. Both are supported, Dimensional Modeling and Data Vault Modeling.
 
 [Create Data Vault Project](createDVProject.md)
