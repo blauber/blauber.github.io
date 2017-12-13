@@ -11,6 +11,8 @@ The Data Vault implementation is enabled by the following configuration steps.
   * Group “DW_MG_DV_SQL”: Visible=True, Default=True
   * Group “DW_MG_SQL”: Visible=False, Default=False
 
+<img src="/images/DefaultTemplateSettingsForDV.png" data-canonical-src="/images/DefaultTemplateSettingsForDV.png" width="400" height="400" />
+
 ### Configuration of Usage of Hash Keys
 The default implementation is based on integer sequence numbers for identities.
 
