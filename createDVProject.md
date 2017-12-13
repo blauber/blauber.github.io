@@ -16,7 +16,7 @@ The Data Vault implementation is enabled by the following configuration steps.
 ### Configuration of Usage of Hash Keys
 The default implementation is based on integer sequence numbers for identities.
 
-Hash keys can be used instead of sequence numbers for the identity columns. The following configuration must be applied to enable this feature before any any DWH object is defined.
+Hash keys can be used instead of sequence numbers for the identity columns. __The following configuration must be applied to enable this feature before any any DWH object is defined.__
 *	The custom property “UseHashKey” for the project must be set to “True”
 *	Custom property "HashKeyAlgorithm" for the project must be set to a supported algorithm. Default value is 'SHA1' with a size of 20 bytes. See SQL Server documentation of function HASHBYTES. 
 Adapt the data type of the identity and foreign key default columns to match the size of the selected algorithm.
