@@ -30,7 +30,7 @@ Adapt the data type of the identity and foreign key default columns to match the
 <img src="/images/SettingHash2.png" data-canonical-src="/images/SettingHash2.png" width="600" />
 
 # Configure DWH Layers
-Now it is time to define the DWH layers. You can configure which layers you want to have. ![Here](/configureDWHLayers.md) it is described how this works.
+Now it is time to define the DWH layers. You can configure which layers you want to have. ![Here](https://github.com/blauber/blauber.github.io/blob/master/configureDWHLayers.md) it is described how this works.
 
 # Configure Source Objects
 
