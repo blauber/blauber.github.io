@@ -10,4 +10,4 @@ __Hint: You can add new entries at the empty line at the bottom. Press the Retur
 * DW (Data Warehouse / Core)
 * DM (Data Mart)
 
-![External Connection] (/images/ExternalConnections.png)
+![External Connection](/images/ExternalConnections.png)
