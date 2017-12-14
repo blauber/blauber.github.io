@@ -1,4 +1,5 @@
 # Create a Data Vault Project With biGenius
+![Data Vault Logo](/images/DataVaultLogoSmall.png)
 
 ## Settings
 
