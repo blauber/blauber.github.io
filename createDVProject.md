@@ -1,9 +1,11 @@
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 // Adding 'Contents' headline to the TOC
 #markdown-toc::before {
     content: "Contents";
     font-weight: bold;
 }
-
 
 // Using numbers instead of bullets for listing
 #markdown-toc ul {
@@ -16,9 +18,6 @@
     list-style: decimal;
     display: inline-block;
 }
-
-* Do not remove this line (it will not be displayed)
-{:toc}
 
 # Create a Data Vault Project With biGenius
 ![Data Vault Logo](/images/DataVaultLogoSmall.png)
